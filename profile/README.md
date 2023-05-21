@@ -5,6 +5,6 @@
 
 🙋‍♀️ This project is for traveling to South Korea. 🇰🇷 <br>
 🚡 You can search tourist attraction information in various categories. <br>
-🪧 You can write a travel plan. We provide a recommended route for the plan. <br>
+🗒️ You can write a travel plan. We provide a recommended route for the plan. <br>
 🏖️ You can recommend your own place and share it with people. <br>
 
