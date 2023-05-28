@@ -54,6 +54,33 @@
 ![image](https://github.com/Trip-or-Trip/.github/assets/15648142/4a991d48-a611-4dab-919a-3d7720122e4c)
 
 ### 여행계획 조회
+- 사용자들이 작성한 여행 계획 조회 페이지입니다.
+- 사용자 추천 경로와 Trip or Trip에서 제공하는 최적 경로를 하단에 보여줍니다.
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/d994e756-2fe2-427b-8482-eb1d81cb875c)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/1a3ce6ba-0c73-4cdb-b13b-7a0910de4f2d)
+
+## 핫플레이스
+- 핫플레이스 조회 화면입니다.
+- 나만의 핫플레이스를 등록하고 사람들과 공유할 수 있습니다.
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/cc5b410a-62a9-4747-b294-1a55f66119be)
+
+### 핫플레이스 등록
+- 핫플레이스 등록 페이지입니다.
+- 방문 장소의 사진과 위치를 입력하고 설명을 등록할 수 있겠습니다.
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/0d24e0c2-b16a-4ea2-9fd7-5c34d0772a05)
 
 ## 게시판
+- 게시판 목록 조회 페이지입니다.
+- 키워드 검색을 통해 검색 결과를 조회할 수 있습니다.
+- 사용자는 자유롭게 게시글을 작성할 수 있습니다.
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/91ddb559-199d-4ca6-aa2c-3abdfd760faa)
+
+### 게시글 조회
+- 게시글 조회 페이지입니다.
+- 사용자들이 게시한 게시글을 볼 수 있으며, 본인글은 수정/삭제가 가능합니다.
+- 유저들은 자유롭게 댓글을 남길 수 있습니다.
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/3286811b-b9c2-400d-9cbf-de7375ceeedc)
+
 ## 공지사항
+- 공지사항 조회 페이지입니다. 관리자만 글을 작성할 수 있습니다.
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/148b30e0-f3a8-489d-b982-04edc7292482)
