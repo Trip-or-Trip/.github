@@ -13,9 +13,9 @@
 ## 메인화면
 - 홈페이지 메인화면입니다.
 - 인기글을 자동으로 추출하여 메인화면에 보여줍니다.
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/d3f2649d-55af-41fc-b656-0f97a1a1d3cc)
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/7e82dcc1-74ca-4735-889e-55b75f71b1d8)
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/6ee8d302-c26f-4b6e-88a1-913397a975b2)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/8ab32c6d-63f1-4051-8293-fbd112e522b6)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/4f520ecd-e0ca-4bc1-8f47-d83ff1c10fff)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/f34d6d77-8982-46f4-8421-724a389b1dd3)
 
 ## 회원관리
 ### 로그인
@@ -39,7 +39,7 @@
 - 내가 작성한 게시글, 핫플레이스, 여행계획, 댓글을 조회할 수 있으며, 내가 좋아요한 게시글도 확인 가능합니다.
 ![image](https://github.com/Trip-or-Trip/.github/assets/15648142/ea2d4036-dd89-49d5-b586-43fb08f9036e)
 ![image](https://github.com/Trip-or-Trip/.github/assets/15648142/026f23ff-4fc1-4cf6-8c4b-c48ff701f212)
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/09cdc168-c4bc-4255-9a46-ace6c99c4093)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/635b9030-447e-49a4-88eb-142be38c10be)
 
 ## 관광지 조회 화면
 - 관광지 조회 화면입니다.
@@ -84,3 +84,13 @@
 ## 공지사항
 - 공지사항 조회 페이지입니다. 관리자만 글을 작성할 수 있습니다.
 ![image](https://github.com/Trip-or-Trip/.github/assets/15648142/148b30e0-f3a8-489d-b982-04edc7292482)
+
+--- 
+# 데이터베이스
+- [DB Schema(MySQL)](https://github.com/Trip-or-Trip/TripOrTrip-Server/blob/main/resources/EnjoyTrip_DDL.sql)
+- [Usecase Diagram](https://github.com/Trip-or-Trip/TripOrTrip-Server/tree/main/resources/UsecaseDiagram)
+- [ER Diagram](https://github.com/Trip-or-Trip/TripOrTrip-Server/blob/main/resources/Trip_or_Trip_ERDiagram.mwb)
+- [Class Diagram](https://github.com/Trip-or-Trip/TripOrTrip-Server/blob/main/resources/Trip_or_Trip_ClassDiagram.png)
+---
+# Tech Stack
+- Front-end : 
