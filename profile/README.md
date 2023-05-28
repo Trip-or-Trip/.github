@@ -45,13 +45,13 @@
 - 관광지 조회 화면입니다.
 - 지역별/테마별 관광지 조회가 가능합니다. 해당 지역의 정보가 표시됩니다.
 - 추가 기능으로 해당 지역 카카오맵 검색, 블로그 후기 보기, 나만의 여행계획 작성이 가능합니다.
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/59dade83-9ef2-4b05-bc39-f2ee038ee324)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/6b2a4e23-95dc-40c0-b429-bff6a56fc003)
 
 ## 여행계획
 ### 여행계획 작성 화면
 - 나만의 여행 계획을 작성할 수 있습니다.
 - Kakao map API를 사용하여 모든 지역에 대해 계획 작성이 가능하며, 조회 시 해당 지역의 정보를 보여줍니다.
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/4a991d48-a611-4dab-919a-3d7720122e4c)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/05aff20b-808a-48a5-80bf-0311ee04689b)
 
 ### 여행계획 조회
 - 사용자들이 작성한 여행 계획 조회 페이지입니다.
@@ -93,4 +93,4 @@
 - [Class Diagram](https://github.com/Trip-or-Trip/TripOrTrip-Server/blob/main/resources/Trip_or_Trip_ClassDiagram.png)
 ---
 # Tech Stack
-![image](https://github.com/Trip-or-Trip/.github/assets/15648142/dfb8751e-fb2f-4cfb-89f7-bed332086d02)
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/abdc1188-0db6-4ad8-8e1e-364386515ebd)
