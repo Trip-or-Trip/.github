@@ -93,4 +93,4 @@
 - [Class Diagram](https://github.com/Trip-or-Trip/TripOrTrip-Server/blob/main/resources/Trip_or_Trip_ClassDiagram.png)
 ---
 # Tech Stack
-- Front-end : 
+![image](https://github.com/Trip-or-Trip/.github/assets/15648142/dfb8751e-fb2f-4cfb-89f7-bed332086d02)
