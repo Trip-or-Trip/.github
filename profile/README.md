@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Trip&nbsp;or&nbsp;Trip&fontSize=90" />
 
 ## Welcome to the Trip or Trip 🙌
-
+### This proejct is awared by Samsung
 
 🙋‍♀️ This project is for traveling to South Korea. 🇰🇷 <br>
 🚡 You can search tourist attraction information in various categories. <br>
