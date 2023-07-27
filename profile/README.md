@@ -2,6 +2,7 @@
 
 ## Welcome to the Trip or Trip 🙌
 ### This proejct is awared by Samsung
+## 본 프로젝트는 삼성전자 주관 삼성 청년 SW 아카데미 우수상으로 수상되었습니다.
 
 🙋‍♀️ This project is for traveling to South Korea. 🇰🇷 <br>
 🚡 You can search tourist attraction information in various categories. <br>
